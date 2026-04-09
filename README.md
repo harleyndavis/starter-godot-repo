@@ -8,3 +8,7 @@ Currently have workflow for publishing to Itch.io. Expects three action secrects
 ITCHIO_GAME: Name of your project in Itch.io
 ITCHIO_USER: Itch.io user name
 ITCH_IO_API: Itch.io API key.
+
+
+## Addons
+Have the git plugin as I think it's helpful to have some git functionality within the editor. 
