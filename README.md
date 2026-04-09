@@ -2,7 +2,7 @@ Simple GODOT starter repo. Goal is to have CI/CD for deployment, as well as test
 
 Do not want to have any game specific features but general features might be nice to have wireframes for(main menu/options/control settings etc)/
 
-# Deployment
+## Deployment
 Currently have workflow for publishing to Itch.io. Expects three action secrects. 
 
 ITCHIO_GAME: Name of your project in Itch.io
