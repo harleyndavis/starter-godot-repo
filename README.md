@@ -5,7 +5,7 @@ Do not want to have any game specific features but general features might be nic
 Also interested in collecting useful addons, especially around starting a game or gamejams.
 
 ## Deployment
-Currently have workflow for publishing to Itch.io. Expects three action secrects. 
+Currently have workflow for publishing to Itch.io. Expects three action secrets. 
 
 ITCHIO_GAME: Name of your project in Itch.io
 ITCHIO_USER: Itch.io user name
